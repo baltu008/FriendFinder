@@ -1,8 +1,8 @@
 # Friend Finder - Node and Express Servers
 
-1. on starting ```node server.js``` the user will see the App is listening on PORT 8080.
+1. on starting ```node server.js``` the user will see the App is listening on PORT 3000.
 
-2. User can then navigate to browser and enter ```localhost:8080``` -> this will bring the user to the home page of Friend Finder
+2. User can then navigate to browser and enter ```localhost:3000``` -> this will bring the user to the home page of Friend Finder
 
 3. To begin the quest to find which friend would be most compatible with you, click the ```Survey``` button.
 
