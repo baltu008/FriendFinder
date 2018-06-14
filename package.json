@@ -1,5 +1,5 @@
 {
-  "name": "BETA_FriendFinder",
+  "name": "FriendFinder",
   "version": "1.0.0",
   "description": "FriendFinder",
   "main": "index.js",
@@ -8,15 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markcam1/FriendFinder.git"
+    "url": "git+https://github.com/baltu008/FriendFinder.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/markcam1/FriendFinder/issues"
-  },
-  "homepage": "https://github.com/markcam1/FriendFinder#readme",
+  "homepage": "https://github.com/baltu008/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
