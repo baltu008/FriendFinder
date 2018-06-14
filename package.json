@@ -1,19 +1,13 @@
-{
-  "name": "FriendFinder",
-  "version": "1.0.0",
-  "description": "FriendFinder",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/baltu008/FriendFinder.git"
-  },
-  "homepage": "https://github.com/baltu008/FriendFinder#readme",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "path": "^0.12.7"
+  {
+    "name": "FriendFinder",
+    "version": "1.0.0",
+    "description": "Helps you find compatible friends",
+    "main": "server.js",
+    "dependencies": {
+      "body-parser": "^1.15.0",
+      "express": "^4.13.4"
+    },
+    "scripts": {
+      "start": "node server.js"
+    }
   }
-}
